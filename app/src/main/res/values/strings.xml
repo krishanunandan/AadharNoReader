@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AadharNoReader</string>
+    <string name="aadhar_number">Aadhar Number</string>
+    <string name="scan_aadhar_number">Scan aadhar number</string>
+    <string name="scan">Scan</string>
+    <string name="scanned_aadhar_number">Scanned aadhar number</string>
+</resources>
